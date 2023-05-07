@@ -1,0 +1,1 @@
+Simple WIP app built with MERN to display CS:GO items with prices
